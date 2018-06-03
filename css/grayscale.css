@@ -193,7 +193,7 @@ a:focus, a:hover {
 
 .portfolio-section {
   color: white;
-  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
+  background: url("../img/portfolio-bg.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -287,4 +287,13 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #ffffff;
+    margin: 1em 0;
+    padding: 0;
 }
