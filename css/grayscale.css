@@ -15,7 +15,7 @@ html {
 h1 {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  color: #42DCA3;
+  color: $primary;
   margin: 0 0 35px;
   letter-spacing: 1px;
   text-transform: uppercase;
